@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Cloudit</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_gallery_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_slideshow_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="add_to_starred">Add to Starred</string>
+    <string name="details_and_activity">Details And Activity</string>
+    <string name="upload_ticker">Uploading File</string>
+    <string name="upload_notification_title">Uploading File</string>
+    <string name="upload_content_text">File is being Uploaded</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="upload_Complete">Upload Completed</string>
+    <string name="upload_complete_success">Upload Completed Successfully</string>
+    <string name="no_files_yet">No Files yet</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="channel_name">Cloudit</string>
+    <string name="channel_description">Cloudit Notification</string>
+    <string name="download_title">Download File</string>
+    <string name="link_copied">Link Copied</string>
+    <string name="share">Share</string>
+    <string name="file_updated">File Updated</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="delete">Delete</string>
+    <string name="file_type">File Type</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156167955286",
+    "firebase_url": "https://mini-project-college.firebaseio.com",
+    "project_id": "mini-project-college",
+    "storage_bucket": "mini-project-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156167955286:android:9698fdd3994b7f7ae76cf7",
+        "android_client_info": {
+          "package_name": "app.cloudit.cloudit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156167955286-625ggstc454s7ae9ug0mjtu26ufjlibp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cloudit.cloudit",
+            "certificate_hash": "2deef3584062edeabd1fb488508269018c0ae6d5"
+          }
+        },
+        {
+          "client_id": "156167955286-d39pfluog92c8scfj9ultdbqikdjuo40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVGAJpUOpM4oeOuZT2SBo3ZDH0_GtZ8n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156167955286-d39pfluog92c8scfj9ultdbqikdjuo40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
